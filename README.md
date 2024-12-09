@@ -9,6 +9,8 @@
 ![Build status](https://github.com/dust-tt/dust/actions/workflows/deploy-front.yml/badge.svg)
 [![npm version](https://badge.fury.io/js/%40dust%2Fclient.svg)](https://www.npmjs.com/package/@dust-tt/client)
 
+Source code available [here](https://github.com/dust-tt/dust/tree/main/sdks/js).
+
 ## Installation
 
 ```
